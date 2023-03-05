@@ -15,3 +15,4 @@ def is_ascending(items):
             return False  # If any adjacent pair of elements violates the ascending order, return False
 
     return True  # If all adjacent pairs of elements satisfy the ascending order, return True
+
