@@ -1,3 +1,29 @@
 #ReadMe
 
-Please find the answers to the questions in CCSPS 109 in this repository
+# CCPS 109 Practice Problems
+
+This repository contains my solutions to practice problems for the CCPS 109 course at the University of Ryerson. Each problem has been solved using Python, and the code is organized into separate folders for each assignment.
+
+## Getting Started
+
+To use this code, simply clone the repository to your local machine and navigate to the appropriate folder for the assignment you wish to view. Each file contains the code for a single problem, along with comments explaining how the solution works.
+
+## Prerequisites
+
+To run this code, you will need Python 3 installed on your machine. You can download the latest version of Python from the official website: https://www.python.org/downloads/
+
+## Contributing
+
+If you have any suggestions for improving the code or finding more efficient solutions to the problems, please feel free to open a pull request. I'm always looking for ways to improve my coding skills and learn from others.
+
+## Authors
+
+* Amir Samaei
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgments
+
+I would like to thank the CCPS 109 instructors for providing these practice problems, as well as my fellow classmates for their helpful discussions and feedback.
